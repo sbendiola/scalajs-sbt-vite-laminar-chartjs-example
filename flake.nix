@@ -33,6 +33,8 @@
               sbt
               scala-cli
               scalafmt
+              p.nodejs
+              p.yarn
             ];
           };
       in {
